@@ -1,0 +1,17 @@
+.badge {
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.available {
+  background-color: #d4edda;
+  color: #aaaaaa;
+}
+
+.unavailable {
+  background-color: #f8d7da;
+  color: #721c24;
+}
